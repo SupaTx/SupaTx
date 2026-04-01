@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm passionate about creating **highly optimized, 100% private LLMs** designed to run locally on user hardware. My mission is to democratize AI by making it fast, free, and keeping data exactly where it belongs—**with the user**.
+I'm passionate about creating **highly optimized, 100% private LLMs** designed to run locally on user hardware. My mission is to democratize AI by making it fast, free, and keeping data exactly where it belongs **with the user**.
 
 ### What I Do:
 - 🔭 **Currently Building:** Local-first LLM systems with enterprise-grade optimization
