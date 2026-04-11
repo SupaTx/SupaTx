@@ -1,29 +1,52 @@
-# README.md
+<div align="center">
 
-## Professional Profile
+# SupaTx
 
-### 👤 About Me
+**AI Engineer · Machine Learning Specialist**
 
-I'm a passionate AI Engineer specializing in Machine Learning. My journey in technology has equipped me with a diverse skill set, enabling me to bring innovative solutions to life.
+*Building intelligent systems that bridge research and production.*
 
-### 🛠️ Tech Stack
+<br/>
 
-- **Languages:** Python, TypeScript
-- **Frameworks:** React Native, Next.js
-- **Specialization:** AI/ML Engineering
+[![Python](https://img.shields.io/badge/Python-3.9-3B6D11?style=flat-square&labelColor=EAF3DE)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.3-185FA5?style=flat-square&labelColor=E6F1FB)](https://www.typescriptlang.org/)
+[![React Native](https://img.shields.io/badge/React%20Native-0.64-993556?style=flat-square&labelColor=FBEAF0)](https://reactnative.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-12.1-444441?style=flat-square&labelColor=F1EFE8)](https://nextjs.org/)
 
-### 💻 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupaTx&show_icons=true&theme=radical)
+</div>
 
-### 📫 Contact Information
-Feel free to reach out to me on:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+---
 
-### 🌟 Badges
-[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.3-blue)](https://www.typescriptlang.org/)
-[![ReactNative](https://img.shields.io/badge/React%20Native-0.64%20-%2361DBFB)](https://reactnative.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-12.1%20-%237b83ea)](https://nextjs.org/)
+## About
 
-_GitHub Stats and contact information updated on 2026-04-11._
+I'm a passionate AI Engineer specialising in Machine Learning — from model fine-tuning and scalable inference systems to intelligent, user-facing applications. I work across the full stack, using Python for ML and TypeScript with React Native and Next.js on the frontend.
+
+---
+
+## Tech stack
+
+| | |
+|---|---|
+| **Languages** | Python · TypeScript |
+| **Frontend** | React Native · Next.js |
+| **Specialisation** | Machine Learning · LLM Systems · Scalable ML APIs |
+
+---
+
+## What I'm working on
+
+- Fine-tuning LLMs for domain-specific tasks using PEFT and LoRA
+- Building production-grade ML inference APIs and monitoring systems
+- Shipping cross-platform AI-powered apps with React Native and Next.js
+
+---
+
+## Get in touch
+
+📬 [supatxr@gmail.com](mailto:supatxr@gmail.com)
+
+---
+
+<div align="center">
+<sub>Open to interesting problems and collaborations.</sub>
+</div>
