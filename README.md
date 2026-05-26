@@ -1,6 +1,6 @@
 <div align="center">
 
-# Elijah Olalere — SupaTX
+# Elijah Olalere SupaTX
 
 **AI Engineer · Machine Learning Specialist**
 
@@ -21,11 +21,11 @@
 
 ## About
 
-I'm an AI Engineer based in Nigeria, specialising in machine learning systems — from model architecture and training to production deployment and agent design. I work across the full stack, using Python for everything ML and TypeScript with React Native and Next.js on the frontend.
+I'm an AI Engineer based in Nigeria, specialising in machine learning systems from model architecture and training to production deployment and agent design. I work across the full stack, using Python for everything ML and TypeScript with React Native and Next.js on the frontend.
 
-My work sits at the intersection of **predictive modeling**, **LLM agent systems**, and **real-world deployment**. I don't just build models that work in notebooks — I build systems that work in production.
+My work sits at the intersection of **predictive modeling**, **LLM agent systems**, and **real-world deployment**. I don't just build models that work in notebooks I build systems that work in production.
 
-Currently building **PredictaX9**, a mathematically consistent AI prediction engine for the 2026 FIFA World Cup, entering the **Stair AI World Cup Agent Arena** — a live competition where AI agents place real prediction market bets and are scored on both profit and reasoning quality.
+Currently building **PredictaX9**, a mathematically consistent AI prediction engine for the 2026 FIFA World Cup, entering the **Stair AI World Cup Agent Arena** a live competition where AI agents place real prediction market bets and are scored on both profit and reasoning quality.
 
 ---
 
@@ -56,8 +56,8 @@ Currently building **PredictaX9**, a mathematically consistent AI prediction eng
 
 ## What I'm Working On
 
-- 🏆 Competing in the **Stair AI World Cup Agent Arena** — building an AI agent that makes live prediction market bets on 2026 FIFA World Cup matches
-- 🤖 Wrapping SupaTX Oracle with an **LLM agentic layer** using IBM Granite for live data fetching and reasoning
+- 🏆 Competing in the **Stair AI World Cup Agent Arena** building an AI agent that makes live prediction market bets on 2026 FIFA World Cup matches
+- 🤖 Wrapping SupaTX Oracle with an **LLM agentic layer** using LFM 2.5 1.2B Thinking for live data fetching and reasoning
 - 🔧 Fine-tuning LLMs for domain-specific tasks using PEFT and LoRA
 - 📱 Shipping cross-platform AI-powered apps with React Native and Next.js
 
